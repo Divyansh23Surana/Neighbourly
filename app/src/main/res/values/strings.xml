@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Neighborly</string>
+    <string name="background_color">#FFFFFF</string>
+    <string name="button_color">#3F51B5</string>
+    <string name="email_hint">Enter your email</string>
+    <string name="logo_desc">App Logo</string>
+    <string name="password_hint">Enter your password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="name_hintR">Enter your name</string>
+    <string name="mobile_hintR">Enter your mobile number</string>
+    <string name="email_hintR">Enter your email</string>
+    <string name="password_hintR">Enter your password</string>
+    <string name="reconfirm_password_hintR">Re-enter your password</string>
+    <string name="registerR">Register</string>
+    <string name="type_your_email">Type your Email</string>
+</resources>
